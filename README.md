@@ -36,10 +36,10 @@ The system operates in a closed loop between a host PC (MATLAB) and the embedded
 
 The system successfully tracks angles even when noise is introduced. Below are the results comparing the MATLAB input simulation against the real-time processing output from the Teensy.
 
-![MATLAB Simulation Input](./files/Simulation.png)
+![MATLAB Simulation Input](./files/Simulation.png)<br>
 *Figure 1: MATLAB Simulation Input showing signal generation and expected cross-correlation peak.*
 
-![Teensy Processing Output](./files/Results.png)
+![Teensy Processing Output](./files/Results.png)<br>
 *Figure 2: Real-time data received from Teensy showing recovered signals and calculated direction.*
 
 ## Hardware & Software
